@@ -1,0 +1,12 @@
+{
+  "sensors": [
+    {
+      "name": "temp1",
+      "min": 35.30,
+      "max": 36.50,
+      "i2c_address": 72,
+      "led_gpio": 17
+    }
+  ]
+}
+
